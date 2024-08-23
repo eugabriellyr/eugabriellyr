@@ -28,6 +28,15 @@ Tenho paixão por transformar desafios em oportunidades de aprendizado e crescim
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eugabriellyr&theme=radical)
 
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eugabriellyr&theme=radical)
+
+![Gabrielly's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=eugabriellyr&theme=dracula)
+
+![Metrics](https://github.com/eugabriellyr/github-metrics)
+
+![Metrics](https://github.com/eugabriellyr/github-metrics)
+
+
 
 
 
