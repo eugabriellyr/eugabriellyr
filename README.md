@@ -26,7 +26,8 @@ Tenho paixão por transformar desafios em oportunidades de aprendizado e crescim
 ### Linguagens Mais Utilizadas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugabriellyr&layout=compact&theme=radical)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=eugabriellyr&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eugabriellyr&theme=radical)
+
 
 
 
