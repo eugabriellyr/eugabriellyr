@@ -25,19 +25,10 @@ Tenho paixão por transformar desafios em oportunidades de aprendizado e crescim
 
 ### Linguagens Mais Utilizadas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugabriellyr&layout=compact&theme=radical)
-# Estatísticas do meu GitHub:
 
-### Streaks de Contribuições:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eugabriellyr&theme=radical)
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eugabriellyr&theme=radical)
 
-### Linguagens mais usadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugabriellyr&layout=compact&theme=radical)
 
-### Estatísticas Gerais:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eugabriellyr&show_icons=true&theme=vue-dark)
-
-### Gráfico de Atividade:
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=eugabriellyr&theme=dracula)
 
 
 
