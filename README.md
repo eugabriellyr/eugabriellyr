@@ -24,5 +24,6 @@ Tenho paixão por transformar desafios em oportunidades de aprendizado e crescim
 
 
 - ![Gabrielly's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugabriellyr&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugabriellyr&layout=compact&theme=radical)
 
 
