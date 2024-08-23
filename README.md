@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, sou a Gabrielly 👋
 
-<!--
-**eugabriellyr/eugabriellyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedora full-stack júnior, com foco em **PHP**, **MySQL** e **React Native**. Amo resolver problemas complexos e criar soluções inovadoras! 🚀
 
-Here are some ideas to get you started:
+### Tecnologias que utilizo:
+- 💻 **Linguagens:** PHP, JavaScript
+- 🛠 **Frameworks:** Laravel, React Native
+- 📊 **Banco de dados:** MySQL
+- 🎨 **Design:** HTML, CSS, Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos em Destaque:
+- [Meu app de agendamento para salão](link_do_projeto)
+- [Sistema de gestão para salão de beleza](link_do_projeto)
+
+✨ [Portfólio](link_portfolio) • [LinkedIn](link_linkedin)
