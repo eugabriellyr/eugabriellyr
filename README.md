@@ -30,9 +30,8 @@ Tenho paixão por transformar desafios em oportunidades de aprendizado e crescim
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eugabriellyr&theme=radical" alt="Resumo do Perfil"/>
 </div>
 
-
-### Conquistas:
-![Trophies](https://github-profile-trophy.vercel.app/?username=eugabriellyr&theme=radical)
+### Visitantes:
+![Visitor Count](https://komarev.com/ghpvc/?username=eugabriellyr&color=blueviolet)
 
 
 
