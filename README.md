@@ -23,7 +23,7 @@ Tenho paixão por transformar desafios em oportunidades de aprendizado e crescim
   ✨ [Portfólio](link_portfolio) • [LinkedIn](https://www.linkedin.com/in/gabriellynr)
 
 
-###  Linguagens Mais e Utilizadas Resumo do Perfil:
+###  Linguagens Mais Utilizadas e Resumo do Perfil:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugabriellyr&layout=compact&theme=radical" alt="Linguagens Mais Utilizadas"/>
