@@ -26,9 +26,8 @@ Tenho paixão por transformar desafios em oportunidades de aprendizado e crescim
 ### Linguagens Mais Utilizadas e Resumo do Perfil:
 
 <div align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugabriellyr&layout=compact&theme=radical" alt="Linguagens Mais Utilizadas"/>
-  <img width="400em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eugabriellyr&theme=radical" alt="Resumo do Perfil"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugabriellyr&layout=compact&theme=radical" alt="Linguagens Mais Utilizadas"/>
+  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eugabriellyr&theme=radical" alt="Resumo do Perfil"/>
 </div>
-
 
 
