@@ -23,7 +23,8 @@ Tenho paixão por transformar desafios em oportunidades de aprendizado e crescim
 - [Meu app de agendamento para salão](link_do_projeto)
 - [Sistema de gestão para salão de beleza](link_do_projeto)
 
-  ✨ [Portfólio](link_portfolio) • [LinkedIn](https://www.linkedin.com/in/gabriellynr)
+✨👩🏻‍💻 [Portfólio](link_portfolio) • [LinkedIn](https://www.linkedin.com/in/gabriellynr)
+
 
 
 ### Linguagens Mais Utilizadas e Resumo do Perfil:
