@@ -10,10 +10,8 @@ Sou desenvolvedora Full-Stack Júnior, com foco em soluções utilizando **PHP**
 
 Tenho paixão por transformar desafios em oportunidades de aprendizado e crescimento, buscando sempre as melhores soluções para entregar projetos de alta qualidade. 🚀
 
-> "A única maneira de fazer um excelente trabalho é amar o que você faz." – Steve Jobs
 > "Você sabe, a maior falha... é não tentar." – Tony Stark
  
-
 
 ### Tecnologias que utilizo:
 - 💻 **Linguagens:** PHP, JavaScript
