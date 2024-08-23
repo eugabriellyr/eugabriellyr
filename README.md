@@ -1,6 +1,6 @@
 # Olá, sou a Gabrielly 👋
 
-Sou desenvolvedora full-stack júnior, com foco em **PHP**, **MySQL** e **React Native**. Amo resolver problemas complexos e criar soluções inovadoras! 🚀
+Sou Desenvolvedora Full-Stack Júnior, com linguagem principal *PHP**, **MySQL** e **React Native**. Amo resolver problemas complexos e criar soluções inovadoras! 🚀
 
 ### Tecnologias que utilizo:
 - 💻 **Linguagens:** PHP, JavaScript
