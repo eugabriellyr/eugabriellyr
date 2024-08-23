@@ -31,6 +31,8 @@ Tenho paixão por transformar desafios em oportunidades de aprendizado e crescim
 </div>
 
 
+### Conquistas:
+![Trophies](https://github-profile-trophy.vercel.app/?username=eugabriellyr&theme=radical)
 
 
 
