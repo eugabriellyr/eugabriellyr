@@ -20,8 +20,9 @@ Tenho paixão por transformar desafios em oportunidades de aprendizado e crescim
 - 🎨 **Design:** HTML, CSS, Bootstrap, jQuery...
 
 ### Projetos em Destaque:
+- [Sistema de gestão para salão de beleza](https://cloudwise.smpsistema.com.br/leflower/)
 - [Meu app de agendamento para salão](link_do_projeto)
-- [Sistema de gestão para salão de beleza](link_do_projeto)
+
 
 ✨👩🏻‍💻 [Portfólio](link_portfolio) • [LinkedIn](https://www.linkedin.com/in/gabriellynr)
 
