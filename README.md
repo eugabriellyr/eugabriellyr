@@ -26,12 +26,12 @@ Tenho paixão por transformar desafios em oportunidades de aprendizado e crescim
 ✨👩🏻‍💻 [Portfólio](link_portfolio) • [LinkedIn](https://www.linkedin.com/in/gabriellynr)
 
 
-
 ### Linguagens Mais Utilizadas e Resumo do Perfil:
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugabriellyr&layout=compact&theme=radical" alt="Linguagens Mais Utilizadas"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eugabriellyr&theme=radical" alt="Resumo do Perfil"/>
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap;">
+  <img style="width: 45%; min-width: 250px; max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugabriellyr&layout=compact&theme=radical" alt="Linguagens Mais Utilizadas"/>
+  <img style="width: 45%; min-width: 250px; max-width: 400px;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eugabriellyr&theme=radical" alt="Resumo do Perfil"/>
 </div>
+
 
 
