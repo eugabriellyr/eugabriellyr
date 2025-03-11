@@ -3,11 +3,14 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 Bem-vindo(a) à minha página!
-Sou estudante e Desenvolvedora Full-Stack Júnior, com foco em soluções utilizando **PHP** como minha linguagem principal para o Back-end, em conjunto com o framework **Laravel** e **MySQL** para a gestão de bancos de dados relacionais. No Front-end, utilizo **HTML,** **CSS,** **JavaScript** e frameworks modernos para criar interfaces intuitivas e responsivas. Além disso, desenvolvo aplicativos móveis dinâmicos utilizando **React Native**.
+Sou estudante e Desenvolvedora Full-Stack Júnior, com foco em soluções utilizando **PHP** como minha linguagem principal para o Back-end, em conjunto com o framework **Laravel** e **MySQL** para a gestão de bancos de dados relacionais. No Front-end, utilizo **HTML,** **CSS,** **JavaScript** e frameworks modernos para criar interfaces intuitivas e responsivas. Além disso, desenvolvo aplicativos móveis dinâmicos utilizando **React Native**.  
+
+Atualmente, também trabalho com **Node.js** para desenvolver APIs e back-ends escaláveis. 🚀
 
 Tenho paixão por transformar desafios em oportunidades de aprendizado e crescimento, buscando sempre as melhores soluções para entregar projetos de alta qualidade. 🚀
 
@@ -16,8 +19,8 @@ Tenho paixão por transformar desafios em oportunidades de aprendizado e crescim
 ---
 
 ### 🚀 Tecnologias que utilizo:
-- 💻 **Linguagens:** PHP, JavaScript
-- 🛠 **Frameworks:** Laravel, React Native
+- 💻 **Linguagens:** PHP, JavaScript, Node.js
+- 🛠 **Frameworks:** Laravel, React Native, Express.js
 - 📊 **Banco de dados:** MySQL
 - 🎨 **Design:** HTML, CSS, Bootstrap, jQuery...
 
