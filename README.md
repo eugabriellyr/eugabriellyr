@@ -1,19 +1,20 @@
 # 👋 Olá, eu sou Gabrielly Rodrigues
 
-### Full-Stack Developer • Backend • Mobile • APIs • IA
+### Full-Stack Developer • Front-end • Back-end • Mobile • APIs • WordPress • IA
 
-<img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=eugabriellyr&show_icons=true&theme=radical&hide_border=true"/>
+<img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=eugabriellyr&show_icons=true&theme=radical&hide_border=true&v=1"/>
 
-Apaixonada por transformar ideias em **soluções digitais escaláveis**.
+Apaixonada por transformar ideias em **soluções digitais escaláveis** com interfaces limpas e modernas.
 
-Sou **Desenvolvedora Full-Stack Júnior**, com experiência em **Back-end, APIs, aplicações mobile, infraestrutura e integração de sistemas**.
+Sou **Desenvolvedora Full-Stack Júnior**, com experiência em **Front-end, Back-end, APIs, WordPress, aplicações mobile, infraestrutura e integração de sistemas**.
 
-Minha principal stack envolve **PHP/Laravel**, **Node.js/Express**, **MySQL**, **Flutter**, desenvolvimento de APIs REST e construção de soluções para produtos digitais, mobilidade urbana e aplicações modernas.
+Minha principal stack envolve **PHP/Laravel**, **Node.js/Express**, **MySQL**, **Flutter**, **WordPress**, desenvolvimento de APIs REST e construção de soluções para produtos digitais, mobilidade urbana e aplicações modernas.
 
 Atualmente aprofundo conhecimentos em:
 
 - 🚀 Arquitetura Back-end
-- ☁️ Cloud & Infraestrutura
+- 🎨 Front-end & UI/UX
+- ☁️ Conceitos Cloud & Infraestrutura
 - 🤖 Integrações com IA
 - 📱 Desenvolvimento Mobile
 - 📊 Banco de Dados & Performance
@@ -28,14 +29,16 @@ Atualmente aprofundo conhecimentos em:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Frontend & Mobile
+### Frontend, Mobile & CMS
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -66,9 +69,9 @@ Sistema de gestão e agendamento para salão de beleza.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eugabriellyr&show_icons=true&theme=radical&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=eugabriellyr&show_icons=true&theme=radical&hide_border=true&v=1"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugabriellyr&layout=compact&theme=radical&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugabriellyr&layout=compact&theme=radical&hide_border=true&v=1"/>
 
 </div>
 
